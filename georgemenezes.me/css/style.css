@@ -107,7 +107,7 @@ header p {
 	transform: translateX(-50%);
 }
 .showcase .row > * {
-	height: 100px;
+	height: 200px;
 	padding: 10px 10px 10px 10px;
 	text-align: center;
 	border-radius: 15px;
@@ -115,7 +115,7 @@ header p {
 }
 .showcase .row > * > * {
 	margin-top: 10px;
-	height: 80px;
+	height: 180px;
 	background-color: blue;
 	border-radius: 15px;
 }
